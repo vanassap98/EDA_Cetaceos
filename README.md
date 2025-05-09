@@ -22,7 +22,7 @@ Este análisis exploratorio de datos (EDA) estudia los registros de observación
 
 ## Herramientas utilizadas
 
-- `Python`: pandas, numpy, matplotlib, seaborn, plotly, geopandas, folium
+- `Python`: pandas, numpy, matplotlib, seaborn, plotly, folium
 - `Jupyter Notebook`
 - Notion y GitHub para documentación
 
