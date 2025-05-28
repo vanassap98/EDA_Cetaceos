@@ -28,40 +28,6 @@ Este análisis exploratorio de datos (EDA) estudia los registros de observación
 
 ---
 
-
-## Estructura del repositorio
-
-EDA_Cetaceos/
-│
-├── README.md
-├── requirements.txt
-│
-├── docs/
-│   ├── Memoria.pdf
-│   └── Presentacion.pdf
-│
-├── src/
-│   ├── data/
-│   │   ├── raw/             # Datos originales (GBIF)
-│   │   └── clean/           # Dataset limpio
-│   │
-│   ├── notebooks/
-│   │   ├── EDA_cetaceos.ipynb
-│   │   └── informe_cetaceos.ipynb
-│   │
-│   ├── scripts/
-│   │   ├── limpieza.py
-│   │   ├── visualizacion.py
-│   │   └── comunicacion.py
-│   │
-│   └── outputs/
-│       ├── figuras/
-│       └── mapas_interactivos/
-
-
-
----
-
 ## Notebooks
 
 - `EDA_cetaceos.ipynb`: análisis exploratorio principal del dataset.
